@@ -25,7 +25,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tenebit-eng&show_icons=true&locale=en&layout=compact" alt="Tomisin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lil-adonis&show_icons=true&locale=en" alt="Tomisin" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tenebit-engs&show_icons=true&locale=en" alt="Tomisin" /></p>
 
 **
 ![snake gif](https://github.com/Lil-Adonis/Lil-Adonis/blob/output/github-contribution-grid-snake.gif)
