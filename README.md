@@ -28,4 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tenebit-eng&show_icons=true&locale=en" alt="Tomisin" /></p>
 
 **
-![snake gif](https://github.com/Lil-Adonis/Lil-Adonis/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Tenebit-eng/Tenebit-eng/blob/output/github-contribution-grid-snake.gif)
