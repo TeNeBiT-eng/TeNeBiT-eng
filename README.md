@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lil-adonis&label=Profile%20views&color=0e75b6&style=flat" alt="Tomisin" /> </p>
 
-<p align="left"> <a href="https://twitter.com/liladonise" target="blank"><img src="https://img.shields.io/twitter/follow/liladonise?logo=twitter&style=for-the-badge" alt="liladonise" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ghap_dev" target="blank"> </a> </p>
 
 - 👯 I’m looking to collaborate on **anything related to Frontend web development**
 
